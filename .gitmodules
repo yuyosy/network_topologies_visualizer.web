@@ -1,0 +1,3 @@
+[submodule "web/next-bower"]
+	path = web/next-bower
+	url = git@github.com:NeXt-UI/next-bower.git
